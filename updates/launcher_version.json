@@ -1,0 +1,10 @@
+{
+  "version": "0.0.8",
+  "changelog": "Actualización",
+  "download_url": "https://github.com/TU_USUARIO/SakuraLauncher/raw/master/updates/launcher_update.zip",
+  "files": [
+    "launcher.py",
+    "assets/logo.png",
+    "assets/background.png"
+  ]
+}
