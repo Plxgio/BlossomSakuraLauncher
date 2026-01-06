@@ -1,7 +1,7 @@
 {
   "version": "0.0.8",
   "changelog": "Cambios en la interfaz.",
-  "download_url": "https://github.com/Plxgio/SakuraLauncher/raw/main/updates/launcher_update_v0.0.8.zip",
+  "download_url": "https://github.com/Plxgio/BlossomSakuraLauncher/raw/refs/heads/main/updates/launcher_update_v0.0.8.zip",
   "files": [
     "launcher.py",
     "assets/logo.png",
@@ -11,4 +11,3 @@
   "timestamp": "2026-01-06T17:14:51.763250",
   "author": "Plxgio"
 }
-
